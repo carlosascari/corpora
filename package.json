@@ -1,0 +1,22 @@
+{
+  "name": "corpora",
+  "version": "0.4.0",
+  "description": "Formats and merges multiple files into one. Used to build a corpus for natural language processing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "nlp",
+    "natural language processing",
+    "nlu",
+    "text processing",
+    "corpora",
+    "corpus"
+  ],
+  "author": "Ascari Gutierrez Hermosillo <carlos.ascari.x@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.0"
+  }
+}
